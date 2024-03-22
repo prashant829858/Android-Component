@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Component</string>
+    <string name="welcome">Welcome</string>
+    <string name="go_to_next_activity">Go to Next Activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="this_is_fragment">This is Fragment</string>
+    <string name="to_play_music_click_button">To play music click Start</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
